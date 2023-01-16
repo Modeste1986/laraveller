@@ -1,0 +1,22 @@
+
+<div class="card" style="width: 50%; height: 25%;">
+  {{ collection from="posts" }}
+    
+
+    
+    <a href="{{url}}">
+    <img src="{{ featured_image }}"  class="card-img-top" alt="...">
+    </a>
+
+    
+    <div class="card-body">
+      <h5 class="card-title">{{ title }}</h5>
+      <p class="card-text">{{bard}} {{date}} auteur: {{author:name}}</p>
+      <a href="{{ url }}" class="btn btn-primary">Lire</a>
+      <img src="">
+    </div>
+
+{{ /collection}}  
+
+
+

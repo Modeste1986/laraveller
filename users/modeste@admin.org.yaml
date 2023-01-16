@@ -1,4 +1,9 @@
 super: true
 name: modeste
+avatar: lerieur.png
 id: 5edb7b51-9616-414c-88ea-66bfab9f9176
 password_hash: $2y$10$I0JfdgjtbhjmHqTZV42emuTbLLltEs7ztGowpH4GudRnQwy7sm2Z2
+preferences:
+  collections:
+    posts:
+      after_save: create_another

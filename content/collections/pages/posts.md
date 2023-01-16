@@ -1,9 +1,9 @@
 ---
-id: c3888886-8796-4f6f-90b5-dee0fafbcaee
+id: 8ba8346f-8b1a-4c6d-8716-a9daaa7974c9
 blueprint: page
-title: 'Me contacter'
+title: Posts
 author: 5edb7b51-9616-414c-88ea-66bfab9f9176
-template: default
+template: posts/index
 updated_by: 5edb7b51-9616-414c-88ea-66bfab9f9176
-updated_at: 1673857089
+updated_at: 1673445194
 ---
