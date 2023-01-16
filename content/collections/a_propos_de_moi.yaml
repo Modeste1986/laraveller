@@ -1,0 +1,6 @@
+title: 'à propos de moi'
+template: a_propos_de_moi/show
+revisions: false
+date_behavior:
+  past: public
+  future: private
